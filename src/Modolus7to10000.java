@@ -6,6 +6,7 @@ public class Modolus7to10000 {
 
         while (run){
             newnum = (newnum + 1);
+
             if (debug){
                 System.out.println(newnum);
             }
