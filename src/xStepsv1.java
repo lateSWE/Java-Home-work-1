@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class xSteps {
+public class xStepsv1 {
     public static void main(String [] args){
         Scanner scanner = new Scanner(System.in);
         String text = "x";

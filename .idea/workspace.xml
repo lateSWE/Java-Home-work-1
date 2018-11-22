@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f81df07-b9a4-42a0-8b35-16685e3cef8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xStepsv2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Home-work-1/xSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xStepsv1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,24 +24,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1785" />
+          <entry key="java" value="2105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1785" />
+          <entry key="JAVA" value="2105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="5" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="6" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -93,11 +94,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/xSteps.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xStepsv1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/xStepsv2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -139,6 +149,8 @@
         <option value="$PROJECT_DIR$/src/Modulus7to10000.java" />
         <option value="$PROJECT_DIR$/src/Modolus7to10000.java" />
         <option value="$PROJECT_DIR$/src/xSteps.java" />
+        <option value="$PROJECT_DIR$/src/xStepsv1.java" />
+        <option value="$PROJECT_DIR$/src/xStepsv2.java" />
       </list>
     </option>
   </component>
@@ -176,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542912988475" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542921736245" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -191,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.xSteps">
+  <component name="RunManager" selected="Application.xStepsv2">
     <configuration name="CylinderVolume" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="CylinderVolume" />
       <module name="Java-Home-work-1" />
@@ -222,10 +234,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xSteps" type="Application" factoryName="Application">
+    <configuration name="xStepsv1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="xStepsv1" />
+      <module name="Java-Home-work-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xStepsv2" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="xSteps" />
+      <option name="MAIN_CLASS_NAME" value="xStepsv2" />
       <module name="Java-Home-work-1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,7 +253,8 @@
     <list>
       <item itemvalue="Application.ProductFromNumbers" />
       <item itemvalue="Application.Modolus7to10000" />
-      <item itemvalue="Application.xSteps" />
+      <item itemvalue="Application.xStepsv2" />
+      <item itemvalue="Application.xStepsv1" />
       <item itemvalue="Application.CylinderVolume" />
       <item itemvalue="Application.SumFromNumbers" />
     </list>
@@ -271,7 +291,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -363,10 +383,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/xSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/xStepsv1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xStepsv2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
         </state>
       </provider>
     </entry>
