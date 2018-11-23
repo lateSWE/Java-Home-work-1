@@ -6,12 +6,21 @@ public class xStepsv2 {
         String text1 = "x ";
         String text2 = "  ";
         boolean run1 = true;
+        boolean run2 = true;
         int maxwidth = 0;
         int width = 0;
 
         System.out.println("Width of base: ");
         maxwidth = scanner.nextInt();
         while (run1){
+
+
+            while (run2) {
+
+                if (){
+                    run2 = false;
+                }
+            }
 
 
             if (width == maxwidth){
